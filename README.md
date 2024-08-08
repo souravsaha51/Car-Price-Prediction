@@ -5,7 +5,7 @@ The objective of the project is to create a machine learning model. We are doing
 
 
 ## Introduction
-* The project aim to predict rental house prices in Bangalore city, Karnataka. By combining Data Science techniques with web development skills, we’ve created a valuable resource for potential home buyers and real estate enthusiasts. 
+* The focus of this project is developing machine learning models that can accurately predict the price of a used car based on its features, to make informed purchases. We implement and evaluate various learning methods on a dataset consisting of the sale prices of different makes and models
 * Linear Regression is the choosen Algorithm for the fundamental technique in predictive model. The project demonstrates a comprehensive approach to predicting housing prices.
 * The purpose of deploying this project is to gain practical knowledge in the field of Data Science and to make the fundamental strongs. The project provide many new information about the Data Analysis, Outlier Detection and Removal and many more. 
 
