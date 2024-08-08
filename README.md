@@ -9,7 +9,7 @@ The objective of the project is to create a machine learning model. We are doing
 * Linear Regression is the choosen Algorithm for the fundamental technique in predictive model. The project demonstrates a comprehensive approach to predicting housing prices.
 * The purpose of deploying this project is to gain practical knowledge in the field of Data Science and to make the fundamental strongs. The project provide many new information about the Data Analysis, Outlier Detection and Removal and many more. 
 
-## Introduction
+## Project Overview
 The notebook provides an overview of the steps involved in used car price prediction using linear regression. The steps include:
 
 * Data Loading: Loading the dataset into a pandas DataFrame.
