@@ -21,3 +21,6 @@ The notebook provides an overview of the steps involved in used car price predic
 The notebook includes explanations, code snippets, and visualizations to aid in understanding the used car price prediction process using linear regression.
 
 
+## Conclusion
+* The model we were making is to predict the value of a second- hand car using machine learning techniques. We have collected the data of cars from Kaggle having attributes like different cars and their year, km driven, fuel type, model name, company etc.
+
