@@ -7,8 +7,8 @@
 </p>
 
 
-<h1><a name="projectobjectives">Project Objectives💡</a></h1>
-  #### The main objective of  this project are:
+## Project Objectives💡
+### The main objective of  this project are:
 *  To develop an efficient and effective model which predicts the price of a used car according to user’s inputs.
 *  To achieve good accuracy.
 *  To develop a User Interface (UI) which is user-friendly and takes input from the user and predicts the price.
