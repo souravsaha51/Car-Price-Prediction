@@ -27,5 +27,5 @@ The notebook includes explanations, code snippets, and visualizations to aid in 
 
 
 ## Conclusion
-* The model we were making is to predict the value of a second- hand car using machine learning techniques. We have collected the data of cars from Kaggle having attributes like different cars and their year, km driven, fuel type, model name, company etc.
+ The model we were making is to predict the value of a used car using machine learning techniques. We have collected the data of cars from Kaggle having attributes like different cars and their year, km driven, fuel type, model name, company etc.
 
