@@ -5,8 +5,9 @@
 
 
 ## Introduction
-* The focus of this project is developing machine learning models that can accurately predict the price of a used car based on its features, to make informed purchases. We implement and evaluate various learning methods on a dataset consisting of the sale prices of different makes and models
-*  
+<p> A machine learning model can be used to predict used car prices by considering a variety of factors.The model can be trained on a dataset of historical car sales data, and it can then be used to predict the price of a car based on its features.
+ The focus of this project is developing machine learning models that can accurately predict the price of a used car based on its features, to make informed purchases. We implement and evaluate various learning methods on a dataset consisting of the sale prices of different makes and models
+</p>
 *  
 
 ## Project Overview
