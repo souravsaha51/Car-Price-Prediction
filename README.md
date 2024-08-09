@@ -1,15 +1,19 @@
 # Car Price Prediction🚗
 
-## Project Objectives :
- 
-
 
 ## Introduction
 <p> A machine learning model can be used to predict used car prices by considering a variety of factors.The model can be trained on a dataset of historical car sales data, and it can then be used to predict the price of a car based on its features.
  The focus of this project is developing machine learning models that can accurately predict the price of a used car based on its features, to make informed purchases. We implement and evaluate various learning methods on a dataset consisting of the sale prices of different makes and models
 </p>
-*  
 
+
+## Project Objectives :
+  #### The main objective of  this project are:
+*  To develop an efficient and effective model which predicts the price of a used car according to user’s inputs.
+*  To achieve good accuracy.
+*  To develop a User Interface (UI) which is user-friendly and takes input from the user and predicts the price.
+
+ 
 ## Project Overview
 The notebook provides an overview of the steps involved in used car price prediction using linear regression. The steps include:
 
