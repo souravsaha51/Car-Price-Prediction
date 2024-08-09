@@ -13,6 +13,9 @@
 *  To achieve good accuracy.
 *  To develop a User Interface (UI) which is user-friendly and takes input from the user and predicts the price.
 
+
+## DataSet
+<p> This project utilizes a structured dataset in CSV format, detailing used cars with features like mileage, brand, age, and fuel type. Each row represents a car and its price. Proper preprocessing and cleaning of this data are crucial for accurate machine learning modeling and effective price prediction.</p>
  
 ## Project Overview
 The notebook provides an overview of the steps involved in used car price prediction using linear regression. The steps include:
