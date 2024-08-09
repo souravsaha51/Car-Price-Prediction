@@ -16,14 +16,11 @@
  
 ## Project Overview
 The notebook provides an overview of the steps involved in used car price prediction using linear regression. The steps include:
-
 * Data Loading: Loading the dataset into a pandas DataFrame.
 * Data Preprocessing: Handling missing values, encoding categorical variables, feature scaling, and splitting the dataset into training and testing sets.
 * Linear Regression Model: Training the linear regression model on the preprocessed dataset.
 * Model Evaluation: Assessing the model performance using evaluation metrics such as mean squared error (MSE) or R-squared.
 * Price Prediction: Using the trained model to predict prices for new used car instances.
-
-The notebook includes explanations, code snippets, and visualizations to aid in understanding the used car price prediction process using linear regression.
 
 
 ## Conclusion
